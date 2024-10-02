@@ -1,1 +1,1 @@
-# Splitease--Splitwise-Clone-
+# Splitease-(Splitwise-Clone)
